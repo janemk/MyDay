@@ -1,5 +1,5 @@
 # MyDay
-2017 App idea!
+App idea!
 
 ## Current Features
 Geolocation used to return the user's current location's weather and time.
